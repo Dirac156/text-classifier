@@ -9,9 +9,7 @@
 
 1. **Downlaod requirements.txt:**
 
-   ```bash
-    [https://github.com/Dirac156/text-classifier/requirements.txt](https://github.com/Dirac156/text-classifier/blob/master/requirements.txt)
-   ```
+[https://github.com/Dirac156/text-classifier/requirements.txt](https://github.com/Dirac156/text-classifier/blob/master/requirements.txt)
 
 2. **Create a virtual environment**
 
